@@ -1,6 +1,11 @@
+ABenitez
+quiHaEditat = ["ABenitez"]
+desDOnSHaEditat = [ABenitez]
+opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
 quiHaEditat = ["P.Bonilla"]
 desDOnSHaEditat = ["PBonilla"]
 opcionsMenu = ["Sortir","Printar editors de la branca"]
+PBonilla
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
@@ -27,4 +32,11 @@ while whatToDoNext != 0:
       print(" Ha editat: ", end ="")
       for editor in quiHaEditat:
          print(editor, end = ", ")
+      print("\n","====================")
+
+   elif whatToDoNext == 2:
+      print(" ====================")
+      print(" Branques amb edits: ", end ="")
+      for branca in desDOnSHaEditat:
+         print(branca, end = ", ")
       print("\n","====================")
