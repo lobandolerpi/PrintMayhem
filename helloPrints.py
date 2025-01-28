@@ -2,6 +2,11 @@ quiHaEditat = ["P.Bonilla,Kevin Coll"]
 desDOnSHaEditat = ["KColl"]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
 
+quiHaEditat = ["P.Bonilla"]
+desDOnSHaEditat = ["pbvCalamot"]
+opcionsMenu = ["Sortir","Printar editors de la branca"]
+
+
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
    print("\n", "\n") # es cutre, pero no vull importar res a aquest examen.
