@@ -1,3 +1,3 @@
 print("Hello World!")
-quiHaEditat = "Lovelace"
-desDOnSHaEditat = "ALovelace"
+quiHaEditat = "Zamora"
+desDOnSHaEditat = "IZamora"
