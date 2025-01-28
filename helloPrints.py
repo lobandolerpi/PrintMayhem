@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-HEAD
 quiHaEditat = ["Vizuete"]
 desDOnSHaEditat = [MVizuete]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
+quiHaEditat = ["P.Bonilla"]
+desDOnSHaEditat = []
+opcionsMenu = ["Sortir","Printar editors de la branca"]
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
@@ -38,6 +38,4 @@ while whatToDoNext != 0:
       for branca in desDOnSHaEditat:
          print(branca, end = ", ")
       print("\n","====================")
-
-fc798b0 (Afegida funcionalitat i Pedro com a editor)
 
