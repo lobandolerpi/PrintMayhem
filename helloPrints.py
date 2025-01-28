@@ -1,9 +1,7 @@
 quiHaEditat = ["Vizuete"]
-desDOnSHaEditat = [MVizuete]
+desDOnSHaEditat = ["MVizuete"]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
-quiHaEditat = ["P.Bonilla"]
-desDOnSHaEditat = []
-opcionsMenu = ["Sortir","Printar editors de la branca"]
+
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
