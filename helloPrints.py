@@ -1,5 +1,5 @@
-quiHaEditat = ["Ordoño"]
-desDOnSHaEditat = [YOrdoño]
+quiHaEditat = ["Ordoño, P.Bonilla"]
+desDOnSHaEditat = [YOrdoño, pbvCalamot]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
