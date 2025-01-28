@@ -7,6 +7,11 @@ quiHaEditat = ["P.Bonilla"]
 desDOnSHaEditat = ["pbvCalamot"]
 opcionsMenu = ["Sortir","Printar editors de la branca"]
 origin/pbvCalamot
+=======
+quiHaEditat = ["P.Bonilla"]
+desDOnSHaEditat = []
+opcionsMenu = ["Sortir","Printar editors de la branca"]
+fc798b0 (Afegida funcionalitat i Pedro com a editor)
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
@@ -34,6 +39,7 @@ while whatToDoNext != 0:
       for editor in quiHaEditat:
          print(editor, end = ", ")
       print("\n","====================")
+<<<<<<< HEAD
 
    elif whatToDoNext == 2:
       print(" ====================")
@@ -41,3 +47,5 @@ while whatToDoNext != 0:
       for branca in desDOnSHaEditat:
          print(branca, end = ", ")
       print("\n","====================")
+=======
+fc798b0 (Afegida funcionalitat i Pedro com a editor)
