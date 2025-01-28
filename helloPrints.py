@@ -37,3 +37,4 @@ while whatToDoNext != 0:
          print(branca, end = ", ")
       print("\n","====================")
 fc798b0 (Afegida funcionalitat i Pedro com a editor)
+
