@@ -1,6 +1,8 @@
+
 quiHaEditat = ["X.Galan"]
 desDOnSHaEditat = [XGalan]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
+
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
