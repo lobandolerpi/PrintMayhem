@@ -1,3 +1,4 @@
+
 quiHaEditat = ["Villanueva"]
 desDOnSHaEditat = [Gvillanueva]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
