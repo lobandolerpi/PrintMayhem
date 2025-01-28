@@ -1,4 +1,4 @@
-quiHaEditat = ["J.Guevara"]
+quiHaEditat = ["P.Guevara"]
 desDOnSHaEditat = ["JGuevara"]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
 
