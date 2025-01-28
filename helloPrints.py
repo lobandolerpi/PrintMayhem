@@ -40,3 +40,5 @@ while whatToDoNext != 0:
       for branca in desDOnSHaEditat:
          print(branca, end = ", ")
       print("\n","====================")
+print("Hello World!")
+0191a81 (A main afegeixo helloPrints.py gairebé buit)
