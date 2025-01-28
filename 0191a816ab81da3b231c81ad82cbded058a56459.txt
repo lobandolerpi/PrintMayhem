@@ -1,0 +1,4 @@
+0191a816ab81da3b231c81ad82cbded058a56459
+
+he fet git log per veure tots els canvis que s'han fet i per tant hem surten els camvis o mes be els missatges dels commits i al github he buscat el canvi aquest quie era quan has fet el Hello World 
+que es on apareix el World i per tant es el commit del que he agafat el codi.
