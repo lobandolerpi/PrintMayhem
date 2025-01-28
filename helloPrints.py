@@ -1,6 +1,12 @@
+HEAD
 quiHaEditat = ["Vizuete"]
 desDOnSHaEditat = [MVizuete]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
+=======
+quiHaEditat = ["P.Bonilla"]
+desDOnSHaEditat = ["pbvCalamot"]
+opcionsMenu = ["Sortir","Printar editors de la branca"]
+origin/pbvCalamot
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
