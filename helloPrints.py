@@ -4,7 +4,7 @@ opcionsMenu = ["Sortir","Printar editors de la branca"]
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
-   print("\n", "\n") # es cutre pero no vull importar res a aquest examen.
+   print("\n", "\n") # es cutre, pero no vull importar res a aquest examen.
    print("Hello World!")
 
    # printo les opcions disponible
