@@ -36,3 +36,4 @@ while whatToDoNext != 0:
       for branca in desDOnSHaEditat:
          print(branca, end = ", ")
       print("\n","====================")
+fc798b0 (Afegida funcionalitat i Pedro com a editor)
