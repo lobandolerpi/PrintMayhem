@@ -41,4 +41,4 @@ while whatToDoNext != 0:
          print(branca, end = ", ")
       print("\n","====================")
 print("Hello World!")
-0191a81 (A main afegeixo helloPrints.py gairebé buit)
+
