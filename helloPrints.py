@@ -1,1 +1,3 @@
-print("Hello World!")
+quiHaEditat = "Sugasti"
+desDOnSHaEditat = "ASugasti"
+
