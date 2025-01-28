@@ -1,3 +1,4 @@
+pbvCalamot
 
 quiHaEditat = ["X.Galan"]
 desDOnSHaEditat = [XGalan]
@@ -37,3 +38,7 @@ while whatToDoNext != 0:
       for branca in desDOnSHaEditat:
          print(branca, end = ", ")
       print("\n","====================")
+print("Hello World!")
+quiHaEditat = "Zamora"
+desDOnSHaEditat = "IZamora"
+IZamora
