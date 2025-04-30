@@ -1,6 +1,9 @@
+pbvCalamot
+
 quiHaEditat = ["X.Galan"]
 desDOnSHaEditat = [XGalan]
 opcionsMenu = ["Sortir","Printar editors de la branca","Printar branques origen"]
+
 
 whatToDoNext = -1  # Defineixo variable per entrar al while (i jugar a jocs con>
 while whatToDoNext != 0:   
@@ -35,3 +38,7 @@ while whatToDoNext != 0:
       for branca in desDOnSHaEditat:
          print(branca, end = ", ")
       print("\n","====================")
+print("Hello World!")
+quiHaEditat = "Zamora"
+desDOnSHaEditat = "IZamora"
+IZamora
